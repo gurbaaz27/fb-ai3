@@ -30,3 +30,7 @@ pip install -r requirements.txt
 ```bash
 python game.py
 ```
+
+### Other Relevant Content
+
+* Video Link for demo : [Click Here](https://youtu.be/wZEobW0SpMs)
