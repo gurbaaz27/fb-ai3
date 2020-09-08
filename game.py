@@ -212,15 +212,4 @@ while battlesDone < 20:
         print("You find a master ball and catch the legendary pokemon, mewtwo.")
         print(" You fly off the island with charizard, and are greeted home as a hero.")
         print(" The end!")
-        print("Thanks for playing! All credit goes to the Pokemon Company. I take no ownership for anything in this game whatsoever (except for the code).")
-        # print("Credits")
-        # sleep(1)
-        # print("Creator-Simon Pellegri")
-        # print("Pokemon names and ideas- The Pokemon Co.")
-        # print("2016-simon p gamez")
-            
-            
-            
-          
-            
-            
+        print("Thanks for playing!")
