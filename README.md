@@ -31,6 +31,6 @@ pip install -r requirements.txt
 python game.py
 ```
 
-### Other Relevant Content
+### Video Link for demo : [*Click Here*](https://youtu.be/wZEobW0SpMs)
 
-* Video Link for demo : [Click Here](https://youtu.be/wZEobW0SpMs)
+<img src="assets/Capture2.JPG">
