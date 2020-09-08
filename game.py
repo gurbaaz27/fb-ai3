@@ -133,7 +133,7 @@ while battlesDone < 20:
                 print ('You are out of revives.  Please insert $.50 to play again.')
                 Php =0
                 exit(0)
-            if choice == ('analyze'):
+            if choice == ('analyse'):
                 print (choices[2])
                 print ('Charmanders stats:')
                 print(('Attack = ' +str(Patk)+ '   Defense = ' +str(Pdef)+ '   Health = ' +str(Php)+ '     Gold = ' +str(Pgold) ))
