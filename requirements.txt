@@ -1,0 +1,23 @@
+beautifulsoup4==4.9.1
+certifi==2020.6.20
+chardet==3.0.4
+docopt==0.6.2
+idna==2.10
+Js2Py==0.70
+packaging==20.4
+pipwin==0.5.0
+prompt-toolkit==3.0.7
+PyAudio @ file:///C:/Users/Gurbaaz%20Singh%20Nandra/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+pygame==1.9.6
+pyjsparser==2.7.1
+pyparsing==2.4.7
+PyPrind==2.11.2
+pySmartDL==1.3.3
+pytz==2020.1
+requests==2.24.0
+six==1.15.0
+soupsieve==2.0.1
+tzlocal==2.1
+urllib3==1.25.10
+wcwidth==0.2.5
+wit==6.0.0
